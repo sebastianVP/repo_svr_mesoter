@@ -20,3 +20,8 @@ cd ..\
 ls -l\
 pwd\
 history\
+
+
+Creamos el entorno virtual
+
+amisr-user@svr-mesoter:~$ conda create -n amisr_env python=3.8
